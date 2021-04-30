@@ -1,0 +1,21 @@
+.docs-toolbar-wrapper {
+    height: 50%;
+    border-bottom: 1px solid rgb(218, 220, 224);
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 0;
+}
+
+.tool-icon{
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0 6px;
+    cursor: pointer;
+}
+.tool-icon:hover{
+    background: #f0f0f0;
+}
